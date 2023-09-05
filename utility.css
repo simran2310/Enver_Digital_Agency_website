@@ -1,0 +1,61 @@
+.wrapper-1340 {
+    margin: 0 auto;
+    max-width: 1340px;
+    width: 100%;
+    padding: 0 20px;
+  }
+
+  .wrapper-1400{
+    margin: 0 auto;
+    max-width: 1400px;
+    width: 100%;
+    padding: 0 15px;
+  }
+  .wrapper-1420{
+    margin: 0 auto;
+    max-width: 1420px;
+    width: 100%;
+  }
+  .wrapper-1200{
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 15px;
+  }
+  .wrapper-1070 {
+    margin: 0 auto;
+    max-width: 1070px;
+    width: 100%;
+    padding: 0 15px;
+}
+.wrapper-1360 {
+    margin: 0 auto;
+    max-width: 1360px;
+    width: 100%;
+    padding: 0 15px;
+}
+.wrapper-930{
+    margin: 0 auto;
+    max-width: 930px;
+    width: 100%;
+    padding: 0 15px;
+}
+
+  .text-wrapper-1{
+    color: rgba(255, 255, 255, 1);
+    /* font-family: Nunito, sans-serif; */
+  }
+  .text-wrapper-2{
+    color: rgba(255, 255, 255, 0.7);
+    /* font-family: Nunito, sans-serif; */
+  }
+
+  .button-common{
+    padding-left: 38px;
+  padding-right: 38px;
+  padding-bottom: 11px;
+  padding-top: 11px;
+  border-radius: 5px;
+  /* font-family: 'Nunito Sans', ; */
+  border: none;
+  }
